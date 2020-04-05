@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Documentation",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasawebapp/client.git"
+  },
+  "keywords": [
+    "Cleint"
+  ],
+  "author": "Jasa Website",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasawebapp/issues"
+  },
+  "homepage": "https://github.com/jasawebapp#readme"
+}
